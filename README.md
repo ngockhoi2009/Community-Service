@@ -8,11 +8,13 @@ This repository documents my participation in student-led community service acti
 
 Through The Whisper, I participated in two charitable projects and supported the team in carrying out its activities. As Deputy Head of the Logistics Committee, I assisted with logistics, coordination, and other practical tasks according to each project's needs.
 
-### Project 1: [Insert Project Name]
+### Project 1: Community Outreach in Nóc Tu Nương
 
-A community service project organized by The Whisper.
+**Location:** Nóc Tu Nương, Trà Tập Commune, Nam Trà My District, Quảng Nam Province, Vietnam
 
-- **My contribution:** Supported project activities and practical arrangements as needed.
+A community service activity organized by The Whisper in Nóc Tu Nương.
+
+- **My role:** Deputy Head of the Logistics Committee, supporting logistics and other practical tasks as needed.
 - **Photos:** [View project photos](The-Whisper/Project-1/)
 
 ### Project 2: [Insert Project Name]
