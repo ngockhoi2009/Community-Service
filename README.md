@@ -18,7 +18,13 @@ I participated as a volunteer member, contributing to the activity as part of th
 
 ### Supporting Evidence
 
-Photographs documenting the activity are included in this section.
+![Mooncake Activity 1](MoonCakePhoto/MoonCake1.ppg)
+
+![Mooncake Activity 2](MoonCakePhoto/MoonCake2.ppg)
+
+![Mooncake Activity 3](MoonCakePhoto/MoonCake3.ppg)
+
+![Mooncake Activity 4](MoonCakePhoto/MoonCake4.ppg)
 
 **Photos:**
 
