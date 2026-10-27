@@ -16,20 +16,13 @@ This activity combined mooncake fundraising with a charity visit to support the 
 
 I participated as a volunteer member, contributing to the activity as part of the team. I did not hold a formal leadership position.
 
-### Supporting Evidence
 
-![Mooncake Activity 1](MoonCakePhoto/MoonCake1.png)
+### Photos
 
-![Mooncake Activity 2](MoonCakePhoto/MoonCake2.png)
-
-![Mooncake Activity 3](MoonCakePhoto/MoonCake3.png)
-
-![Mooncake Activity 4](MoonCakePhoto/MoonCake4.png)
-
-**Photos:**
-
-- Add photographs of the fundraising activity and charity visit here.
----
+- [Mooncake Activity 1](MoonCakePhoto/MoonCake1.png)
+- [Mooncake Activity 2](MoonCakePhoto/MoonCake2.png)
+- [Mooncake Activity 3](MoonCakePhoto/MoonCake3.png)
+- [Mooncake Activity 4](MoonCakePhoto/MoonCake4.png)
 
 ## 2. The Whisper — Student Volunteer Club
 
