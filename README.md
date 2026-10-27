@@ -6,7 +6,7 @@ This repository documents my participation in student-led community service acti
 
 **Role:** Deputy Head of Logistics Committee
 
-**Certificate:** [View Certificate](The-Whisper/Certificate.jpg)
+**Certificate:** [View Certificate](The Whisper/Certificate.jpg)
 
 Through The Whisper, I participated in two charitable projects and supported the team in carrying out its activities. As Deputy Head of the Logistics Committee, I assisted with logistics, coordination, and other practical tasks according to each project's needs.
 
