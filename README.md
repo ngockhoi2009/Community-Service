@@ -5,6 +5,7 @@ This repository documents my **participation** in community service activities, 
 ## 1. Mooncake Fundraising and Charity Visit
 
 **Activity Type:** Fundraising and Community Service
+
 **Role:** Volunteer Member
 
 ### Overview
@@ -22,12 +23,12 @@ Photographs documenting the activity are included in this section.
 **Photos:**
 
 - Add photographs of the fundraising activity and charity visit here.
-
 ---
 
 ## 2. The Whisper — Student Volunteer Club
 
 **Organization:** The Whisper
+
 **Role:** Deputy Head of Logistics Committee
 
 The Whisper is a student volunteer club involved in organizing community service activities. Through the club, I participated in two charitable projects and supported the team in carrying out its activities.
