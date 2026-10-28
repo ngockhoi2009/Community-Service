@@ -19,12 +19,12 @@ A community service activity organized by The Whisper in Nóc Tu Nương.
 - **My role:** Deputy Head of the Logistics Committee, supporting logistics and other practical tasks as needed.
 - **Photos:** [Photo 1](<The Whisper/TW_Project1/TW1.jpg>) · [Photo 2](<The Whisper/TW_Project1/TW2.jpg>) · [Photo 3](<The Whisper/TW_Project1/TW3.jpg>) · [Photo 4](<The Whisper/TW_Project1/TW4.jpg>) · [Photo 5](<The Whisper/TW_Project1/TW5.jpg>)
 
-### Project 2: [Insert Project Name]
+### Project 2: Whisperland
 
 A second charitable project organized by The Whisper.
 
-- **My contribution:** Assisted with the activities and tasks required by the team.
-- **Photos:** [View project photos](The-Whisper/Project-2/)
+- **My contribution:** Helped sell fundraising items, organize workshop and participated in the project's fundraising activities to support the community visit.
+- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.jpg>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>)
 
 ### Supporting Evidence
 
