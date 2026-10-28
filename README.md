@@ -24,7 +24,8 @@ A community service activity organized by The Whisper in Nóc Tu Nương.
 A second charitable project organized by The Whisper.
 
 - **My contribution:** Helped sell fundraising items, organize workshop and participated in the project's fundraising activities to support the community visit.
-- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>)
+- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 2](<The Whisper/TW_Project2/P3.jpg>)
+
 
 ### Supporting Evidence
 
