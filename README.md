@@ -24,7 +24,7 @@ A community service activity organized by The Whisper in Nóc Tu Nương.
 A second charitable project organized by The Whisper.
 
 - **My contribution:** Helped sell fundraising items, organize workshop and participated in the project's fundraising activities to support the community visit.
-- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 2](<The Whisper/TW_Project2/P3.jpg>)
+- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 3](<The Whisper/TW_Project2/P3.jpg>)· [Photo 4](<The Whisper/TW_Project2/P4.png>)
 
 
 ### Supporting Evidence
@@ -41,10 +41,10 @@ This activity combined mooncake fundraising with a charity visit. I participated
 
 ### Photos
 
-- [Mooncake Activity 1](MoonCakePhoto/MoonCake1.png) — Group photo; I am the person wearing glasses at the far right.
-- [Mooncake Activity 2](MoonCakePhoto/MoonCake2.png) — Charity visit; I am the boy closest to the camera on the right.
-- [Mooncake Activity 3](MoonCakePhoto/MoonCake3.png) — Charity visit; I am the person standing in front of the elderly woman.
-- [Mooncake Activity 4](MoonCakePhoto/MoonCake4.png) — Group photo; I am the person wearing glasses near the center, without a jacket.
+- [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) — I am the person wearing glasses at the far right.
+- [Mooncake Photo 2](MoonCakePhoto/MoonCake2.png)
+- [Mooncake Photo 3](MoonCakePhoto/MoonCake3.png) 
+- [Mooncake Photo 4](MoonCakePhoto/MoonCake4.png) 
 
 ## Purpose of This Portfolio
 
