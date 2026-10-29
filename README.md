@@ -35,7 +35,7 @@ This activity combined mooncake fundraising with a charity visit. I participated
 
 ### Photos
 
-- [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) — I am the person wearing glasses at the far right.
+- [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) — I am the person without sweater, wearing glasses in the middle.
 - [Mooncake Photo 2](MoonCakePhoto/MoonCake2.png)
 - [Mooncake Photo 3](MoonCakePhoto/MoonCake3.png) 
 - [Mooncake Photo 4](MoonCakePhoto/MoonCake4.png) 
