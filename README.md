@@ -27,12 +27,6 @@ A second charitable project organized by The Whisper.
 - **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 3](<The Whisper/TW_Project2/P3.jpg>) · [Photo 4](<The Whisper/TW_Project2/P4.png>)
 
 
-### Supporting Evidence
-
-A certificate documenting my participation in The Whisper's activities is included in this repository.
-
-[View certificate](The-Whisper/Certificate.jpg)
-
 ## 2. Mooncake Fundraising and Charity Visit
 
 **Role:** Volunteer Member
