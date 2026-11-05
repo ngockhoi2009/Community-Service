@@ -6,7 +6,7 @@ This repository documents my participation in student-led community service acti
 
 **Role:** Deputy Head of Logistics Committee
 
-**Certificate:** ![Certificate](<The Whisper/Certificate.jpg>)
+![Certificate](<The Whisper/Certificate.jpg>)
 
 Through The Whisper, I participated in two charitable projects and supported the team in carrying out its activities. As Deputy Head of the Logistics Committee, I assisted with logistics, coordination, and other practical tasks according to each project's needs.
 
@@ -21,10 +21,12 @@ A community service activity organized by The Whisper in Nóc Tu Nương.
 
 ### Project 2: Whisperland
 
+![Whisperland](<The Whisper/TW_Project2/P4.png>)
+
 A second charitable project organized by The Whisper.
 
 - **My contribution:** Helped sell fundraising items, organize workshop and participated in the project's fundraising activities to support the community visit.
-- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 3](<The Whisper/TW_Project2/P3.jpg>) · [Photo 4](<The Whisper/TW_Project2/P4.png>)
+- **Photos:** [Photo 1](<The Whisper/TW_Project2/P1.png>) · [Photo 2](<The Whisper/TW_Project2/P2.jpg>) · [Photo 3](<The Whisper/TW_Project2/P3.jpg>) 
 
 
 ## 2. Mooncake Fundraising and Charity Visit
@@ -35,7 +37,7 @@ This activity combined mooncake fundraising with a charity visit. I participated
 
 ### Photos
 
-- [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) — I am the person without sweater, wearing glasses in the middle.
+- [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) 
 - [Mooncake Photo 2](MoonCakePhoto/MoonCake2.png)
 - [Mooncake Photo 3](MoonCakePhoto/MoonCake3.png) 
 - [Mooncake Photo 4](MoonCakePhoto/MoonCake4.png) 
