@@ -33,6 +33,8 @@ A second charitable project organized by The Whisper.
 
 ## 2. Mooncake Fundraising and Charity Visit
 
+![MoonCakeProject](<MoonCakePhoto/MoonCake0.png>)
+
 **Role:** Volunteer Member
 
 This activity combined mooncake fundraising with a charity visit. I participated as a volunteer member, contributing to the team's activities without holding a formal leadership position.
@@ -42,7 +44,8 @@ This activity combined mooncake fundraising with a charity visit. I participated
 - [Mooncake Photo 1](MoonCakePhoto/MoonCake1.png) 
 - [Mooncake Photo 2](MoonCakePhoto/MoonCake2.png)
 - [Mooncake Photo 3](MoonCakePhoto/MoonCake3.png) 
-- [Mooncake Photo 4](MoonCakePhoto/MoonCake4.png) 
+- [Mooncake Photo 4](MoonCakePhoto/MoonCake4.png)
+- [Mooncake Photo 5](MoonCakePhoto/MoonCake5.png)  
 
 ## Purpose of This Portfolio
 
