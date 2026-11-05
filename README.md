@@ -14,6 +14,8 @@ Through The Whisper, I participated in two charitable projects and supported the
 
 **Location:** Nóc Tu Nương, Trà Tập Commune, Nam Trà My District, Quảng Nam Province, Vietnam
 
+![Noc Tu Nuong](<The Whisper/TW_Project1/TW0.jpg>)
+
 A community service activity organized by The Whisper in Nóc Tu Nương.
 
 - **My role:** Deputy Head of the Logistics Committee, supporting logistics and other practical tasks as needed.
