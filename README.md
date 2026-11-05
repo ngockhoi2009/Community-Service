@@ -33,7 +33,7 @@ A second charitable project organized by The Whisper.
 
 ## 2. Mooncake Fundraising and Charity Visit
 
-![MoonCakeProject](<MoonCakePhoto/MoonCake0.png>)
+![MoonCakeProject](<MoonCakePhoto/MoonCake0.jpg>)
 
 **Role:** Volunteer Member
 
