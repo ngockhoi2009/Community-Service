@@ -14,7 +14,7 @@ Through The Whisper, I participated in two charitable projects and supported the
 
 **Location:** Nóc Tu Nương, Trà Tập Commune, Nam Trà My District, Quảng Nam Province, Vietnam
 
-![Noc Tu Nuong](<The Whisper/TW_Project1/TW0.jpg>)
+![Noc Tu Nuong](<The Whisper/TW_Project1/TW0.png>)
 
 A community service activity organized by The Whisper in Nóc Tu Nương.
 
