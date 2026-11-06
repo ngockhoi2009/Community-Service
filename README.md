@@ -1,6 +1,6 @@
 # Community Service Portfolio
 
-This repository documents my participation in student-led community service activities, including charitable projects organized through The Whisper and a mooncake fundraising and charity visit activity. It provides an overview of my roles, contributions, and available supporting evidence.
+This repository documents my participation in student-led community service activities. It provides an overview of my roles, contributions, and available supporting evidence.
 
 ## 1. The Whisper — Student Volunteer Club
 
