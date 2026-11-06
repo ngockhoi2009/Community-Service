@@ -19,7 +19,7 @@ Through The Whisper, I participated in two charitable projects and supported the
 A community service activity organized by The Whisper in Nóc Tu Nương.
 
 - **My role:** Deputy Head of the Logistics Committee, supporting logistics and other practical tasks as needed.
-- **Photos:** [Photo 1](<The Whisper/TW_Project1/TW1.jpg>) · [Photo 2](<The Whisper/TW_Project1/TW2.jpg>) · [Photo 3](<The Whisper/TW_Project1/TW3.jpg>) · [Photo 4](<The Whisper/TW_Project1/TW4.jpg>) · [Photo 5](<The Whisper/TW_Project1/TW5.jpg>)
+- **Photos:** [Photo 1](<The Whisper/TW_Project1/TW1.jpg>) · [Photo 2](<The Whisper/TW_Project1/TW2.jpg>) · [Photo 3](<The Whisper/TW_Project1/TW3.jpg>) · [Photo 4](<The Whisper/TW_Project1/TW4.jpg>) · [Photo 5](<The Whisper/TW_Project1/TW5.png>)
 
 ### Project 2: Whisperland
 
